@@ -1,0 +1,8 @@
+{
+  "name": "datetime picker issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "68aac1f3"
+}
